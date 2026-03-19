@@ -131,6 +131,16 @@ The board was manufactured through **JLCPCB**, ensuring high-quality fabrication
 
 ---
 
+# ⚠️ Note
+
+This is a **commercial project**, so the source design files are not publicly available in this repository.
+
+If you need access to the source files for **research, development, or implementation purposes**, please contact:
+
+📧 **wtsangeeth99@gmail.com**
+
+---
+
 # 👨‍💻 Author
 
 **Tharusha Sangeeth**  
